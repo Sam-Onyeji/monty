@@ -215,4 +215,4 @@ Monty Files:
 
 ## Autors
 
-* **Agboola Olawale Damilola** - [TechByDami](https://github.com/TechByDami)
+* **Sam Onyeji** - [Sam-Onyeji](https://github.com/Sam-Onyeji)
